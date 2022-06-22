@@ -166,13 +166,24 @@
 
 
 //Objects
-let book={
-  name: "Advance Maths",
-  author: "XYZ"
-  price: "123"
-}
+//let book={
+//  name: "Advance Maths",
+ // author: "XYZ"
+ // price: "123"
+//}
 
-console.log(book.author)
+//console.log(book.author)
+
+
+//let hotel{
+  //title:"Hotel1"
+  //description:"Best Hotel"
+ // Number of guests according to quarter:[111,,222,231,223,]
+  
+//}
+
+//console.log(hotel.title)
+//console.log(hotel.description)
 
 
 
