@@ -165,4 +165,14 @@
 //console.log(rollDice)
 
 
+//Objects
+let book={
+  name: "Advance Maths",
+  author: "XYZ"
+  price: "123"
+}
+
+console.log(book.author)
+
+
 
